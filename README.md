@@ -1,6 +1,6 @@
 # contador_basic
 
-A new Flutter project.
+Un proyecto de Flutter.
 
 ## Getting Started
 
