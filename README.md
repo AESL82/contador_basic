@@ -1,6 +1,6 @@
 # contador_basic
 
-Un proyecto de Flutter.
+Un proyecto de Flutter - Hola mundo Flutter.
 
 ## Información:
 
